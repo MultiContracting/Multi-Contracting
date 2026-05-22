@@ -1651,7 +1651,7 @@ wistia-player {
 
 .contact-form-wrap {
   background: var(--color-charcoal); border-radius: var(--radius-lg);
-  padding: var(--spacing-lg); box-shadow: var(--shadow-sm);
+  padding: var(--spacing-lg); box-shadow: var(--shadow-sm); min-width: 0; overflow: hidden;
 }
 .contact-form-wrap h2 { font-family: var(--font-body); font-size: 2rem; font-weight: 800; text-transform: uppercase; letter-spacing: 0.04em; color: var(--color-white); margin-bottom: var(--spacing-md); }
 
@@ -1902,6 +1902,10 @@ textarea.form-control { min-height: 140px; resize: vertical; }
   .footer-contact-block .footer-contact-item { justify-content: flex-start; }
   .footer-bottom { border-radius: 12px 12px 0 0; padding: 16px 20px; }
   .footer-bottom-inner { flex-direction: column; align-items: flex-start; gap: 8px; }
+
+  /* Contact form — fit within mobile viewport */
+  .contact-form-wrap { padding: var(--spacing-sm); }
+  .contact-form-wrap .btn { white-space: normal; }
 }
 
 /* Small mobile — 480px and below */
@@ -1915,9 +1919,6 @@ textarea.form-control { min-height: 140px; resize: vertical; }
   .hero-cta-pill { padding: 12px 32px; font-size: 0.9rem; }
 
   .video-strip { grid-template-columns: repeat(2, 1fr); }
-
-  /* Reduce form-wrap padding so form fits without horizontal overflow */
-  .contact-form-wrap { padding: var(--spacing-md); }
 
   /* Prevent iOS auto-zoom on input focus */
   .form-control, select { font-size: 16px; }
