@@ -1064,6 +1064,7 @@ wistia-player {
   text-transform: uppercase;
   letter-spacing: 0.16em;
   margin-bottom: var(--spacing-sm);
+  text-decoration: none;
 }
 .testimonials-heading {
   font-family: var(--font-heading);
