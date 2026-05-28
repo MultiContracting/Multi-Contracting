@@ -139,7 +139,7 @@ All styles are in `css/styles.css`. Key section order (already established):
 | Business name | Multi Contracting, LLC |
 | Phone | (541) 600-9570 |
 | Phone (href) | tel:5416009570 |
-| Email | Gladis@multi-contracting.com |
+| Email | info@multi-contracting.com |
 | City | Eugene |
 | State | OR |
 | CCB License | #238954 |
@@ -153,14 +153,14 @@ All styles are in `css/styles.css`. Key section order (already established):
 ## Open TODOs (unresolved before launch)
 
 - [x] Social media links in footer — Facebook: https://www.facebook.com/MultiContractingOR | Instagram: https://www.instagram.com/multicontractingllc1/
-- [x] Contact form endpoint — Web3Forms, submits to Gladis@multi-contracting.com
+- [x] Contact form endpoint — Web3Forms, submits to info@multi-contracting.com
 - [x] OG image — using logo.png (square crop, acceptable stopgap); update with a proper 1200×630px image if client requests better social previews
 - [x] Exact street address — 90050 Prairie Rd, Eugene, OR 97402
 - [x] Geo coordinates — 44.10702961983307, -123.16426173191445 — added to JSON-LD schema on index.html
 - [x] Favicon — `images/logo.png` linked as favicon on all pages
 - [x] robots.txt — created; sitemap URL points to GitHub Pages URL (update when custom domain goes live)
 - [x] sitemap.xml — created with all 4 pages; update URLs when custom domain goes live
-- [x] Business hours — confirmed Mon–Fri 8AM–6PM
+- [x] Business hours — confirmed Mon–Fri 8AM–5PM
 - [x] Custom domain — handled by client
 - [ ] Update URLs when custom domain goes live — og:image (all pages), og:url (index.html), sitemap.xml (all entries), JSON-LD url field (index.html)
 - [x] Video files — migrated to Wistia-hosted embeds (4 videos on homepage); local `videos/` folder retained but gitignored
