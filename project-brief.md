@@ -26,7 +26,7 @@
 ### About the business
 Multi Contracting, LLC is a family-operated company founded in Eugene on a mission to deliver
 honest, high-quality exterior contracting at a fair price. They are a bilingual company serving
-the full diversity of Lane County. They offer financing through Hearth ($0 Down available).
+the full diversity of Lane County. They offer financing through GoodLeap (flexible payment options).
 
 ---
 
@@ -38,7 +38,7 @@ the full diversity of Lane County. They offer financing through Hearth ($0 Down 
 | CCB Licensed #238954 | Licensed, bonded & fully insured in Oregon |
 | 20+ Years Experience | Trusted in Lane County since 2004 |
 | Bilingual Team | Full service in English & Spanish |
-| Hearth Financing | Flexible payment options, $0 Down available |
+| GoodLeap Financing | Flexible payment options — QuickLink provided by GoodLeap |
 
 ---
 
@@ -96,7 +96,7 @@ the full diversity of Lane County. They offer financing through Hearth ($0 Down 
 - **4-panel vertical video strip** on homepage (financing, neighbors, structural-damage, what-makes-us-different)
   - Video files: `videos/financing.mp4`, `videos/neighbors.mp4`, `videos/structural-damage.mp4`, `videos/what-makes-us-different.mp4`
   - Note: video files are NOT in the repo — client serves/provides separately
-- **Hearth financing** — $0 Down, mentioned in videos and footer
+- **GoodLeap financing** — flexible payment options, mentioned in videos and footer
 - **Bilingual** — "Se Habla Español" noted in guarantee and about sections
 - **Contact form** — on contact.html (check endpoint before launch)
 - **sp-wrap layout** — used on all service detail pages

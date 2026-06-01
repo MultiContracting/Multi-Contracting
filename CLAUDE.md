@@ -144,7 +144,7 @@ All styles are in `css/styles.css`. Key section order (already established):
 | State | OR |
 | CCB License | #238954 |
 | Years in business | 20+ (since 2004) |
-| Financing | Hearth ($0 Down available) |
+| Financing | GoodLeap (flexible payment options) — QuickLink: https://www.goodleap.dev/multicontractingllc/4d5e7e58-cd8b-41cd-9359-6a809f12e916 |
 | Languages | English & Spanish |
 | CertainTeed status | Shingle Master |
 
